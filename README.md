@@ -31,12 +31,10 @@ Mục tiêu chính của project không chỉ là tìm đường từ **START** 
 
 ```text
 University_Campus_Guide/
-├── main.py                  # Entry point chính của chương trình
+├── main.py                  
 ├── test_core.py             # Kiểm tra logic các thuật toán
 ├── requirements.txt         # Danh sách thư viện cần cài
 ├── run_game.bat             # File chạy nhanh trên Windows
-├── README.md                # Mô tả project
-├── docs/                    # Ghi chú phát triển và tài liệu bổ sung
 └── campus_guide/
     ├── main.py              # Khởi chạy ứng dụng PySide6
     ├── app_window.py        # Cửa sổ giao diện chính
