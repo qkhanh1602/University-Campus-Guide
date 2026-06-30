@@ -1,8 +1,4 @@
-"""Small wrapper kept for report clarity.
 
-The UI calls run_selected_algorithm() so the project structure clearly separates
-interface code and AI-search code.
-"""
 from __future__ import annotations
 
 from algorithms.search_algorithms import run_algorithm, SearchResult
